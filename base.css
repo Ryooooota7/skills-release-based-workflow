@@ -103,10 +103,10 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+  display: black;
 }
 body {
-  /* Add background-color declaration here */
+  background-color: black;
 }
 ol,
 ul {
